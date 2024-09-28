@@ -1,0 +1,9 @@
+[
+    {
+        "id":"1",
+        "nome_livro":"o senhor dos aneis",
+        "nome_leitor":"Francisco Ferdinando",
+        "data_emprestimo":"2010-12-30",
+        "data_devolucao":"2011-8-5"
+    }
+]
